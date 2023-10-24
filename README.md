@@ -18,9 +18,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjun6235&theme=radical)
 
 
-## 🧑‍🚀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/seungjun6235/count.svg)
-
-
 ## 🔥 GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seungjun6235&theme=radical)](https://git.io/streak-stats)
+
+![image](http://image.dongascience.com/Photo/2020/03/5bddba7b6574b95d37b6079c199d7101.jpg)
+
+
+
