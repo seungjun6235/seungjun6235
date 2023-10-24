@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**seungjun6235/seungjun6235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Seungjun!
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/seungjun6235)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Seungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjun6235&show_icons=true&theme=radical)
+
+## 👨‍💻 Technology Stack
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+<!-- Add more technologies here -->
