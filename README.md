@@ -14,3 +14,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 <!-- Add more technologies here -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjun6235&theme=radical)
+
+
+## 🧑‍🚀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/seungjun6235/count.svg)
+
+
+## 🔥 GitHub Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seungjun6235&theme=radical)](https://git.io/streak-stats)
