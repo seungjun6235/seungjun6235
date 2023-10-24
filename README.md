@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Seungjun!
 
-![Profile views](https://www.google.com/url?sa=i&url=https%3A%2F%2F1boon.daum.net%2Fholapet%2Fholapet1377&psig=AOvVaw1mc900N5gREs_cnqw20DgS&ust=1698218328725000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPCXhLSSjoIDFQAAAAAdAAAAABAD))
+![Profile views](https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202105/25/holapet/20210525081724428qquq.jpg)
 
 ## 📊 GitHub Stats
 
